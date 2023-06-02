@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUAzJdU2nVXLXNXexsTuOXKIyhuwnz/9u32vnZwfVddKDvJEHZOnQxiK3UwKd2BKCwRPfktJoUyR/p+YCsD31A==",
+  "success": true,
+  "projectFilePath": "/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/Excercise_Manage.csproj",
+  "expectedPackageFiles": [
+    "/Users/baglan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

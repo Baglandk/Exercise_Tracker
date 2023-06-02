@@ -1,0 +1,17 @@
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/bin/Debug/net7.0/Excercise_Manage
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/bin/Debug/net7.0/Excercise_Manage.deps.json
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/bin/Debug/net7.0/Excercise_Manage.runtimeconfig.json
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/bin/Debug/net7.0/Excercise_Manage.dll
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/bin/Debug/net7.0/Excercise_Manage.pdb
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.csproj.AssemblyReference.cache
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.AssemblyInfoInputs.cache
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.AssemblyInfo.cs
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.csproj.CoreCompileInputs.cache
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.csproj.CopyComplete
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.dll
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/refint/Excercise_Manage.dll
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.pdb
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/Excercise_Manage.genruntimeconfig.cache
+/Users/baglan/Projects/Exercise_Tracker/Excercise_Manage/obj/Debug/net7.0/ref/Excercise_Manage.dll
